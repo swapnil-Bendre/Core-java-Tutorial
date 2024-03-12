@@ -1,2 +1,2 @@
 # Core-java-Tutorial
-Some of the core java concept
+Some of the core java codes
